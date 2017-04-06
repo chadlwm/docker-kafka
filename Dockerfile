@@ -1,5 +1,5 @@
 FROM java:openjdk-8-jre
-MAINTAINER liuwenmin "liuwenmin@sensetime.com"
+MAINTAINER chadliu "chad_lwm@hotmail.com"
 
 # copy install package files from localhost.
 ADD ./kafka_2.11-0.9.0.1.tgz /opt/
