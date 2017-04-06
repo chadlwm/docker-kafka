@@ -18,6 +18,8 @@ data目录下的文件夹和文件作用
 - zookeeper zookeeper文件存储目录
   - myid zookeeper服务标识文件
 
+docker 内部通过 supervisor 来启动zookeeper & kafka服务
+
 ## docker build
 
 ```
